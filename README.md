@@ -1,7 +1,7 @@
 <h1 align="center">Ricardo</h1>
 
 <p align="center">
-  Desenvolvedor Full Stack · Professor de TI · Especialista em Produto Digital
+  Olá, meu nome é Ricardo, tenho 16 anos e faço o curso de Desenvolvimento de Sistemas no Sneia. Estou estudando e me especializando em Java, aprendendo HTML, banco de dados, sistema operacional e conceitos básicos de redes.
 </p>
 
 ---
