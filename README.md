@@ -1,7 +1,7 @@
 <h1 align="center">Ricardo</h1>
 
 <p align="center">
-  Olá, meu nome é Ricardo, tenho 16 anos e faço o curso de Desenvolvimento de Sistemas no Sneia. Estou estudando e me especializando em Java, aprendendo HTML, banco de dados, sistema operacional e conceitos básicos de redes.
+  Olá! Meu nome é Ricardo, moro em São Paulo capital (SP), nasci dia 19/12/2008 e faço o curso Desenvolvimento de Sistema no Senai Suíço. Estudo Java (Back-End), HTML, CSS E JavaScript (Front-End), SQL (Banco de Dados), conceitos básicos de redes, git e sistema operacional.
 </p>
 
 ---
@@ -12,25 +12,21 @@
 
 ## Sobre
 
-- Atuação em desenvolvimento full stack com JavaScript e TypeScript
-- Professor de Tecnologia no SENAI e SENAC; criador do canal Professor Corrêa
-- Especialista em acessibilidade, UI/UX, clean code e liderança de produtos digitais
-- Pós-graduação em Engenharia de Software e Digital Product Leadership
-- Experiência em automação de processos e integração de sistemas utilizando Python
+- Estudante de Back-End (Java)
+- Estudante de Front-End (HTML, CSS, JS)
+- Esudante de Banco de Dados (SQL)
+- Esudante de Design (Figma)
 
 ## Projetos em destaque
 
-- [Toque AI](https://toqueai.com.br/) – Plataforma de QR Code para identificação e gestão de pets, pessoas e objetos
-- [Suporte de Domingo](https://suportededomingo.com.br/) – Soluções digitais e agendamento personalizado
-- [Code Trouble](https://codetrouble.com.br) – Comunidade aberta para desenvolvedores e troca de conhecimento
+- MNF Project
 
 ## Contato
 
-- [LinkedIn](https://www.linkedin.com/in/lucascorreaa/)
-- [Suporte de Domingo](https://suportededomingo.com.br/)
-- [Portfólio](https://professorcorrea.com.br/)
-- [Instagram - Professor Corrêa](https://www.instagram.com/professorcorrea)
+- [LinkedIn] (link)
+- [Portfólio] (link)
+- [Instagram] (link)
 
 ---
 
-> Educar é tornar o saber algo com voz, sentido e sentimento.
+> Frase Motivacional
